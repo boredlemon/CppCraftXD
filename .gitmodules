@@ -1,0 +1,6 @@
+[submodule "lib/glfw"]
+	path = lib/glfw
+	url = https://github.com/DolphinNotFound/CplusCraft/tree/main/lib/glfw
+[submodule "lib/cglm"]
+	path = lib/cglm
+	url = https://github.com/DolphinNotFound/CplusCraft/tree/main/lib/cglm
